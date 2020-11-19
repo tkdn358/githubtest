@@ -1,0 +1,5 @@
+
+/* 完了ボタンのアクション リストに線を追加 */
+.done {
+    text-decoration: line-through;
+    }
